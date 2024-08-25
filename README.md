@@ -1,4 +1,4 @@
-Computational Derivation and Matrix Multiplication
+# Ex-2: Computational Derivation and Matrix Multiplication
 
 ## Overview
 In this exercise, you will practice computational derivation and matrix multiplication.
